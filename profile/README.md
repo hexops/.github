@@ -1,4 +1,4 @@
-# Hexops has moved
+# Hexops has moved -> [code.hexops.org](https://code.hexops.org/)
 
 Mach engine development, and other Hexops projects, have moved to [code.hexops.org](https://code.hexops.org/) - a public mirror of Mach remains on GitHub for visibility.
 
